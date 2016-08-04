@@ -1,0 +1,44 @@
+_repo: Original-Short-Stories---Volume-13_3089
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Quesada, Louise Charlotte Garstin
+    alias: Quesada, Mme.
+    gutenberg_agent_id: '4595'
+    url: http://www.gutenberg.org/2009/agents/4595
+  - agent_name: Henderson, A. E.
+    gutenberg_agent_id: '33125'
+    url: http://www.gutenberg.org/2009/agents/33125
+  - agent_name: McMaster, Albert Cohn
+    gutenberg_agent_id: '33124'
+    url: http://www.gutenberg.org/2009/agents/33124
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2004-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Old Judas -- The little cask -- Boitelle -- A widow -- The Englishmen
+  of Etretat -- Magnetism -- A father's confession -- A mother of monsters -- An uncomfortable
+  bed -- A portrait -- The drunkard -- The wardrobe -- The mountain pool -- A cremation
+  -- Misti -- Madame Hermet -- The magic couch.
+title: Original Short Stories — Volume 13
+url: http://www.gutenberg.org/ebooks/3089
