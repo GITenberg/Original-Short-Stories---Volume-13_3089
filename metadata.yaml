@@ -1,5 +1,5 @@
 _repo: Original-Short-Stories---Volume-13_3089
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Quesada, Louise Charlotte Garstin
@@ -12,6 +12,9 @@ contributor:
   - agent_name: McMaster, Albert Cohn
     gutenberg_agent_id: '33124'
     url: http://www.gutenberg.org/2009/agents/33124
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -24,6 +27,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3089#Original-Short-Stories---Volume-13
 gutenberg_issued: '2004-10-04'
 gutenberg_type: Text
 identifiers:
